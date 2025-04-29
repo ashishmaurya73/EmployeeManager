@@ -10,13 +10,13 @@ EmployeeManager is a full-stack MERN application for managing employee records.
 ## Demo Screenshots
 
 ### 🧾 Employee List Page
-![Employee List](./screenshots/employee-list.png)
+![Employee List](./employee-list.png)
 
 ### ➕ Add Employee Page
-![Add Employee](./screenshots/add-employee.png)
+![Add Employee](./add-employee.png)
 
 ### 🗄️ MongoDB Database View
-![MongoDB Database](./screenshots/mongodb-database.png)
+![MongoDB Database](./mongodb-database.png)
 
 
 ## Tech Stack

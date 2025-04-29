@@ -3,14 +3,14 @@
 EmployeeManager is a full-stack MERN application for managing employee records.
 
 ## Features
-- Add, edit, and delete employee data
+- Add, edit, and delete employee data 
 - Responsive UI with React
 - Backend powered by Node.js, Express.js, and MongoDB
 
 ## Demo Screenshots
 
 ### 🧾 Employee List Page
-![Employee List](./Screenshots/Screenshot 2025-04-29 165734.png)
+![Employee List](./screenshots/employee-list.png)
 
 ### ➕ Add Employee Page
 ![Add Employee](./screenshots/add-employee.png)
@@ -18,7 +18,6 @@ EmployeeManager is a full-stack MERN application for managing employee records.
 ### 🗄️ MongoDB Database View
 ![MongoDB Database](./screenshots/mongodb-database.png)
 
-> 📸 Place these images inside a folder named `screenshots` in the root directory of your project.
 
 ## Tech Stack
 - MongoDB
@@ -31,5 +30,10 @@ EmployeeManager is a full-stack MERN application for managing employee records.
 ### Backend
 ```bash
 cd backend
+npm install
+npm dev
+
+// For Frontend
+cd frontend
 npm install
 npm start
